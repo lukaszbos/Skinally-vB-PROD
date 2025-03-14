@@ -1,0 +1,1 @@
+web: gunicorn transform-photo-ws:app
